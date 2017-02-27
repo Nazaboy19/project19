@@ -1,6 +1,9 @@
 body{
-    background-color: #000;
+    background-color: #A7C3C6;
     padding-top: 70px;
+}
+#navbar1{
+	text-align: center;
 }
 
 .jumbotron{
