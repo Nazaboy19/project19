@@ -1,5 +1,6 @@
 body{
-    background: grey;
+    background-color: #000;
+    padding-top: 70px;
 }
 
 .jumbotron{
@@ -10,4 +11,5 @@ h1{
 }
 footer, .push {
     height: 105px; 
+    text-align: center;
 }
