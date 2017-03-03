@@ -19,3 +19,8 @@ footer, .push {
 h2{
 	text-align: center;
 }
+#section3{
+	background-color: white;
+	text-align: center;
+	float: block;
+}
