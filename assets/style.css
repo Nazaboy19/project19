@@ -6,6 +6,11 @@ body{
 	text-align: center;
 }
 
+#mainnav{
+    background-color: white;
+   
+}
+
 .jumbotron{
     width: 100%;
 }
@@ -20,7 +25,10 @@ h2{
 	text-align: center;
 }
 #section3{
-	background-color: white;
+	background-color: #A7C3C6;
 	text-align: center;
 	float: block;
+}
+#Experience{
+    text-align: center;
 }
